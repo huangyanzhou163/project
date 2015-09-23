@@ -1,8 +1,5 @@
 public class HelloWorld {
-    /**
-    * Êä³öÒ»ÐÐ×Ö·û´®¡°Hello World!¡±
-    * @param args
-    */
+    //this is an example that performs printing "Hello World!"
     public static void main(String[] args) {
     System.out.println("Hello World!");
     }
